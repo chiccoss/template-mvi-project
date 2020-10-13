@@ -1,0 +1,16 @@
+<resources>
+
+    <declare-styleable name="AppTheme">
+
+
+        <attr name="TextButton" format="reference" />
+
+        <attr name="editTextStyle" format="reference" />
+
+        <attr name="bottomBar" format="reference" />
+        <attr name="textInputStyleExposedDropdownMenu" format="reference" />
+
+
+    </declare-styleable>
+
+</resources>

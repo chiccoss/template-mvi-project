@@ -1,0 +1,31 @@
+<resources>
+    <!-- region margins -->
+
+    <dimen name="margin_micro">4dp</dimen>
+    <dimen name="margin_xsmall">6dp</dimen>
+    <dimen name="margin_small">8dp</dimen>
+    <dimen name="margin_medium">16dp</dimen>
+    <dimen name="margin_large">24dp</dimen>
+    <dimen name="margin_xlarge">32dp</dimen>
+    <dimen name="margin_xxlarge">40dp</dimen>
+    <dimen name="margin_xxxlarge">56dp</dimen>
+    <dimen name="margin_xxxxlarge">64dp</dimen>
+    <dimen name="margin_xxxxxlarge">90dp</dimen>
+    <dimen name="margin_xxxxxxlarge">106dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+
+    <!-- endregion -->
+
+    <!-- region text size -->
+
+    <dimen name="text_macro">10sp</dimen>
+    <dimen name="text_micro">12sp</dimen>
+    <dimen name="text_small">14sp</dimen>
+    <dimen name="text_medium">16sp</dimen>
+    <dimen name="text_large">18sp</dimen>
+    <dimen name="text_xlarge">20sp</dimen>
+    <dimen name="text_xxlarge">24sp</dimen>
+    <dimen name="text_xxxlarge">40sp</dimen>
+
+    <!-- endregion -->
+</resources>
